@@ -5,7 +5,7 @@ It improves the shopping experience by allowing customers to filter products and
 
 ---
 
-Plugin Preview: 
+Plugin Preview: https://www.stompitparts.com/shop-2/
 <br/>
 Plugin Overview:
 
