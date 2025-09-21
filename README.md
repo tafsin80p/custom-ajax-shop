@@ -5,6 +5,13 @@ It improves the shopping experience by allowing customers to filter products and
 
 ---
 
+Plugin Preview: 
+<br/>
+Plugin Overview:
+
+<img width="1269" height="578" alt="image" src="https://github.com/user-attachments/assets/a55f2b1d-50bd-492b-bbf5-4b2ddfecc233" />
+<img width="1270" height="762" alt="image" src="https://github.com/user-attachments/assets/7bec3917-0983-4b81-8cd6-8d86d3c75c5e" />
+
 ## 🚀 Features
 
 - ✅ **AJAX-powered shop page** (no page reloads)  
